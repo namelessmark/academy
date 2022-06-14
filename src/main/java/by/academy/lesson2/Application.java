@@ -17,5 +17,6 @@ public class Application {
         System.out.println("money: " + jack.getMoney());
         System.out.println("animal is home: " + jack.getIsHomeAnimal());
         System.out.println("first letter of nick: " + jack.getFirstLetter());
+        System.out.println("tets");
     }
 }
